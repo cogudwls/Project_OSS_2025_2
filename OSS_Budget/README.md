@@ -1,3 +1,5 @@
+##지출 카테고리별 캐시백 기능을 추가한 가계부 프로그램
+
 <img width="402" height="710" alt="image" src="https://github.com/user-attachments/assets/0d01594e-87de-4040-a292-2ed631692780" />
 
 ```
